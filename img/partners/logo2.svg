@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="265" height="60" viewBox="0 0 265 60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full">
+    <defs>
+        <radialGradient id="153875225665856" cx="38" cy="30" r="35" fx="38" fy="30" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" style="stop-color:#0c68a8;stop-opacity:0.800000"></stop>
+            <stop offset="21%" style="stop-color:#0c5995;stop-opacity:0.846400"></stop>
+            <stop offset="65%" style="stop-color:#10386c;stop-opacity:0.942800"></stop>
+            <stop offset="67%" style="stop-color:#0f366a;stop-opacity:0.947400"></stop>
+            <stop offset="100%" style="stop-color:#112856;stop-opacity:1.000000"></stop>
+        </radialGradient>
+        <radialGradient id="124376025388224" cx="12" cy="30" r="62" fx="12" fy="30" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" style="stop-color:#0c68a8;stop-opacity:0.800000"></stop>
+            <stop offset="21%" style="stop-color:#0c5995;stop-opacity:0.846400"></stop>
+            <stop offset="65%" style="stop-color:#10386c;stop-opacity:0.942800"></stop>
+            <stop offset="67%" style="stop-color:#0f366a;stop-opacity:0.947400"></stop>
+            <stop offset="100%" style="stop-color:#112856;stop-opacity:1.000000"></stop>
+        </radialGradient>
+        <radialGradient id="116614425393824" cx="22" cy="11" r="18" fx="22" fy="11" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" style="stop-color:#0c68a8;stop-opacity:0.800000"></stop>
+            <stop offset="21%" style="stop-color:#0c5995;stop-opacity:0.846400"></stop>
+            <stop offset="65%" style="stop-color:#10386c;stop-opacity:0.942800"></stop>
+            <stop offset="67%" style="stop-color:#0f366a;stop-opacity:0.947400"></stop>
+            <stop offset="100%" style="stop-color:#112856;stop-opacity:1.000000"></stop>
+        </radialGradient>
+        <radialGradient id="130097625670784" cx="28" cy="26" r="28" fx="28" fy="26" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" style="stop-color:#0c68a8;stop-opacity:0.800000"></stop>
+            <stop offset="21%" style="stop-color:#0c5995;stop-opacity:0.846400"></stop>
+            <stop offset="65%" style="stop-color:#10386c;stop-opacity:0.942800"></stop>
+            <stop offset="67%" style="stop-color:#0f366a;stop-opacity:0.947400"></stop>
+            <stop offset="100%" style="stop-color:#112856;stop-opacity:1.000000"></stop>
+        </radialGradient>
+        <radialGradient id="129545625390464" cx="12" cy="30" r="62" fx="12" fy="30" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" style="stop-color:#0c68a8;stop-opacity:0.800000"></stop>
+            <stop offset="21%" style="stop-color:#0c5995;stop-opacity:0.846400"></stop>
+            <stop offset="65%" style="stop-color:#10386c;stop-opacity:0.942800"></stop>
+            <stop offset="67%" style="stop-color:#0f366a;stop-opacity:0.947400"></stop>
+            <stop offset="100%" style="stop-color:#112856;stop-opacity:1.000000"></stop>
+        </radialGradient>
+        <radialGradient id="176644825669216" cx="42" cy="30" r="37" fx="42" fy="30" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" style="stop-color:#0c68a8;stop-opacity:0.800000"></stop>
+            <stop offset="21%" style="stop-color:#0c5995;stop-opacity:0.846400"></stop>
+            <stop offset="65%" style="stop-color:#10386c;stop-opacity:0.942800"></stop>
+            <stop offset="67%" style="stop-color:#0f366a;stop-opacity:0.947400"></stop>
+            <stop offset="100%" style="stop-color:#112856;stop-opacity:1.000000"></stop>
+        </radialGradient>
+    </defs>
+    <g transform="scale(1,-1) translate(0,-60)">
+        <path d="M 24.561810 60.739013 L 1.000000 1.783998 L 49.931527 1.783998 L 42.702889 21.429006 L 31.608450 21.429006 L 38.058120 38.472141 L 51.560442 1.783998 L 75.549217 1.783998 L 51.560442 60.739013 Z" transform="scale(1.000000,1.000000) translate(-1.000000,-1.000000)" fill="url(#153875225665856)" opacity="1.000000"></path>
+        <path d="M 23.825046 23.342907 L 23.825046 60.810011 L 1.353177 60.810011 L 1.353177 1.471018 L 1.527180 1.471018 L 1.356183 1.647003 Z" transform="scale(1.000000,1.000000) translate(74.000000,-1.000000)" fill="url(#124376025388224)" opacity="1.000000"></path>
+        <path d="M 1.415085 1.471018 L 43.949917 1.471018 L 43.949917 22.921931 L 23.642947 22.921931 Z" transform="scale(1.000000,1.000000) translate(76.000000,-1.000000)" fill="url(#116614425393824)" opacity="1.000000"></path>
+        <path d="M 28.153338 51.810011 L 1.668680 51.810011 L 23.797558 30.456093 L 28.584316 30.456093 C 35.241978 30.456093 35.156983 21.971523 28.584316 21.971523 L 23.401578 21.971523 L 23.401578 1.376566 L 28.584316 1.376566 C 66.790388 1.376565 63.330572 52.488975 28.153338 51.810011 Z" transform="scale(1.000000,1.000000) translate(123.000000,8.000000)" fill="url(#130097625670784)" opacity="1.000000"></path>
+        <path d="M 1.371807 60.810011 L 1.371807 1.471018 L 23.847658 1.471018 L 23.847658 39.178107 L 1.428795 60.810011 Z" transform="scale(1.000000,1.000000) translate(121.000000,-1.000000)" fill="url(#129545625390464)" opacity="1.000000"></path>
+        <path d="M 59.528917 60.810011 L 59.528917 2.112983 L 48.036499 22.833934 C 54.781157 25.043822 57.635013 31.488495 57.724008 37.671182 C 57.980995 50.136550 50.290384 60.810010 26.169607 60.810010 L 3.658748 60.810010 L 24.825675 40.381044 L 30.148405 40.381044 C 32.652278 40.381044 35.162151 38.687130 35.250147 35.895271 C 35.250147 34.285353 33.605230 32.071465 30.581383 32.071465 L 25.544638 32.071465 L 25.538639 32.087464 L 23.840725 32.087464 L 23.840725 39.167106 L 1.417861 60.809009 L 1.366863 60.809009 L 1.366863 1.470016 L 23.842724 1.470016 L 23.842724 19.603098 L 27.509538 19.603098 L 36.371090 1.471018 L 59.529916 1.471018 L 59.882899 1.471018 L 82.181768 1.471018 L 82.181768 60.810011 L 59.528917 60.810011 Z" transform="scale(1.000000,1.000000) translate(179.000000,-1.000000)" fill="url(#176644825669216)" opacity="1.000000"></path>
+    </g>
+</svg>
